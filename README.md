@@ -2,8 +2,6 @@
 
 I work as a backend tech lead and am the AWS Community Builder (as DevTools category). I also develop my own AWS related tools as OSS.
 
-I like Golang and mainly use TypeScript and Python in my work.
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-to-k&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=go-to-k&show_icons=ture" />
