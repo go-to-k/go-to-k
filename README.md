@@ -4,7 +4,6 @@ I work as a backend tech lead and am the AWS Community Builder (as DevTools cate
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-to-k&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=go-to-k&show_icons=ture" />
 </p>
 
 <!--
