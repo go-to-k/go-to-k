@@ -1,8 +1,11 @@
 ### k.goto
 
-I work as a backend tech lead and am the AWS Community Builder (as DevTools category). I also develop my own AWS tools as OSS.
+I work as a backend tech lead and am the AWS Community Builder (as DevTools category). I develop my own AWS tools as OSS.
+
+I am also an AWS CDK Contributor.
 
 <p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-to-k&layout=compact&show_icons=true" />
 </p>
 
