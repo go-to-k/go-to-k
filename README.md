@@ -1,8 +1,8 @@
 ### k.goto
 
-I work as a backend tech lead and am the AWS Community Builder (as DevTools category). I develop my own AWS tools as OSS.
+AWS Community Builder (as DevTools category) / AWS CDK Contributor / AWS CDK Community Reviewer.
 
-I am also an AWS CDK Contributor.
+I also develop my own AWS tools as OSS.
 
 <p align="left"> 
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
