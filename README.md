@@ -1,6 +1,6 @@
 ### k.goto
 
-AWS CDK Contributor (Community Reviewer) / AWS Community Builder (as DevTools category).
+AWS CDK Contributor (Community Reviewer) / AWS Community Builder (DevTools).
 
 I also develop my own AWS tools as OSS.
 
