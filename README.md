@@ -1,8 +1,6 @@
 ### k.goto
 
-AWS CDK Contributor (Community Reviewer) / AWS Community Builder (DevTools).
-
-I also develop my own AWS tools as OSS.
+AWS CDK Contributor (Community Reviewer) / AWS Community Builder (DevTools) / OSS development of self-made AWS tools
 
 <p align="left"> 
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
