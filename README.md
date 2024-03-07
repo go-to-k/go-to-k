@@ -1,6 +1,6 @@
 ### k.goto
 
-AWS CDK Top Contributor & Trusted Reviewer / AWS Community Builder (DevTools) / OSS development of self-made AWS tools
+AWS DevTools Hero / AWS CDK Top Contributor & Trusted Reviewer / OSS developer of self-made AWS tools & CDK Construct libraries / Backend Tech Lead
 
 <p align="left"> 
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
