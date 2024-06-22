@@ -1,4 +1,4 @@
-### k.goto (Kenta Goto)
+### Kenta Goto (k.goto)
 
 AWS DevTools Hero / AWS CDK Top Contributor & Trusted Reviewer / OSS developer of self-made AWS tools & CDK Construct libraries / Backend Tech Lead
 
