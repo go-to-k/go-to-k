@@ -1,4 +1,4 @@
-### Kenta Goto (k.goto)
+### Kenta Goto
 
 - [AWS DevTools Hero](https://aws.amazon.com/jp/developer/community/heroes/kenta-goto/)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md) & [Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews#trusted-cdk-reviewers)
