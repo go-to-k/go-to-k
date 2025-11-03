@@ -9,7 +9,7 @@
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
 </p>
 
-# Blog Posts and Slides
+# Blog Posts (en/ja) and Slides
 
 - [English](https://dev.to/k_goto)
 - [Japanese](https://go-to-k.hatenablog.com/)
