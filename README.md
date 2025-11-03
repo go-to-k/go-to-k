@@ -1,4 +1,4 @@
-### Kenta Goto
+# Kenta Goto
 
 - [AWS DevTools Hero](https://aws.amazon.com/jp/developer/community/heroes/kenta-goto/)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md) & [Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews#trusted-cdk-reviewers)
@@ -8,6 +8,14 @@
 <p align="left"> 
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
 </p>
+
+# Blog Posts
+
+- [English](https://dev.to/k_goto)
+- [Japanese](https://go-to-k.hatenablog.com/)
+- builders.flash(Official web magazine by AWS Japan)
+  - [AWS CDK におけるバリデーションの使い分け方を学ぶ](https://aws.amazon.com/jp/builders-flash/202406/cdk-validation/)
+  - [AWS CDK における単体テストの使い所を学ぶ](https://aws.amazon.com/jp/builders-flash/202411/learn-cdk-unit-test/)
 
 # My Dev Tools
 
