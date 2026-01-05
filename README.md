@@ -16,6 +16,7 @@
 - builders.flash (Official web magazine by AWS Japan)
   - [AWS CDK におけるバリデーションの使い分け方を学ぶ](https://aws.amazon.com/jp/builders-flash/202406/cdk-validation/)
   - [AWS CDK における単体テストの使い所を学ぶ](https://aws.amazon.com/jp/builders-flash/202411/learn-cdk-unit-test/)
+  - [AWS CDK におけるプロパティ一括適用 TIPS 集](https://aws.amazon.com/jp/builders-flash/202601/cdk-property-bulk-apply/)
 - [Slides](https://speakerdeck.com/gotok365)
 
 # Self-developed OSS
