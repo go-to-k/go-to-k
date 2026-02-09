@@ -35,6 +35,10 @@ The CLI tool to force delete the entire AWS CloudFormation stack, even if it con
 
 The CLI tool to search AWS Lambda runtime and versions across regions.
 
+### [cdk-agc](https://github.com/go-to-k/cdk-agc)
+
+CDK Assembly Garbage Collector - Clean up unused assets in your cdk.out directory.
+
 ## AWS CDK Construct Libraries
 
 ### [image-scanner-with-trivy](https://github.com/go-to-k/image-scanner-with-trivy)
