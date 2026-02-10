@@ -45,7 +45,7 @@ CDK Assembly Garbage Collector - Clean up unused assets in your cdk.out director
 
 The AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Trivy.
 
-To my surprise, this library was featured on the ecosystem page of [Trivy's official documentation](https://aquasecurity.github.io/trivy/latest/ecosystem/ide/#image-scanner-with-trivy-community)!
+To my surprise, this library was featured on the ecosystem page of [Trivy's official documentation](https://trivy.dev/docs/latest/ecosystem/ide/#image-scanner-with-trivy-community)!
 
 ### [image-scanner-with-dockle](https://github.com/go-to-k/image-scanner-with-dockle)
 
