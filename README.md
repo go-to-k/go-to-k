@@ -37,7 +37,7 @@ The CLI tool to search AWS Lambda runtime and versions across regions.
 
 ### [cdk-agc](https://github.com/go-to-k/cdk-agc)
 
-CDK Assembly Garbage Collector - Clean up unused assets in your cdk.out directory.
+CDK Assembly Garbage Collector - Clean up unused assets in your `cdk.out` directory, remove locally built Docker images, and delete temporary CDK directories.
 
 ## AWS CDK Construct Libraries
 
