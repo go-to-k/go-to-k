@@ -47,6 +47,10 @@ The AWS CDK Construct library to allow you to scan a container image during CDK 
 
 To my surprise, this library was featured on the ecosystem page of [Trivy's official documentation](https://trivy.dev/docs/latest/ecosystem/ide/#image-scanner-with-trivy-community)!
 
+### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
+
+This is an AWS CDK Construct that allows you to verify container image scan findings using ECR Image Scanning (Basic/Enhanced) in CDK deployment layer.
+
 ### [image-scanner-with-dockle](https://github.com/go-to-k/image-scanner-with-dockle)
 
 The AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Dockle.
