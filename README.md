@@ -49,7 +49,7 @@ To my surprise, this library was featured on the ecosystem page of [Trivy's offi
 
 ### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
 
-This is an AWS CDK Construct that allows you to verify container image scan findings using ECR Image Scanning (Basic/Enhanced) in CDK deployment layer.
+The AWS CDK Construct to block deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities.
 
 ### [image-scanner-with-dockle](https://github.com/go-to-k/image-scanner-with-dockle)
 
