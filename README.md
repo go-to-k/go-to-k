@@ -25,15 +25,15 @@
 
 ### [cls3](https://github.com/go-to-k/cls3)
 
-The CLI tool to CLear S3 Buckets. It empties (so deletes all objects and versions/delete-markers in) S3 Buckets or deletes the buckets themselves.
+A CLI tool to CLear S3 Buckets. It empties (so deletes all objects and versions/delete-markers in) S3 Buckets or deletes the buckets themselves.
 
 ### [delstack](https://github.com/go-to-k/delstack)
 
-The CLI tool to force delete the entire AWS CloudFormation stack, even if it contains resources that fail to delete by the CloudFormation delete operation.
+A CLI tool for deleting AWS CloudFormation stacks, from routine deletions to force deleting stacks with undeletable resources.
 
 ### [lamver](https://github.com/go-to-k/lamver)
 
-The CLI tool to search AWS Lambda runtime and versions across regions.
+A CLI tool to search AWS Lambda runtime and versions across regions.
 
 ### [cdk-agc](https://github.com/go-to-k/cdk-agc)
 
@@ -43,18 +43,18 @@ CDK Assembly Garbage Collector - Clean up unused assets in your `cdk.out` direct
 
 ### [image-scanner-with-trivy](https://github.com/go-to-k/image-scanner-with-trivy)
 
-The AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Trivy.
+An AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Trivy.
 
 To my surprise, this library was featured on the ecosystem page of [Trivy's official documentation](https://trivy.dev/docs/latest/ecosystem/ide/#image-scanner-with-trivy-community)!
 
 ### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
 
-The AWS CDK Construct that blocks deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities, and optionally verifies container image signatures.
+An AWS CDK Construct that blocks deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities, and optionally verifies container image signatures.
 
 ### [image-scanner-with-dockle](https://github.com/go-to-k/image-scanner-with-dockle)
 
-The AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Dockle.
+An AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Dockle.
 
 ### [elb-other-5xx-alarm](https://github.com/go-to-k/elb-other-5xx-alarm)
 
-The AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as Application Load Balancer) that fires on HTTPCode_ELB_5XX_Count excluding 500, 502, 503, and 504 (e.g. 501, 505, 561).
+An AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as Application Load Balancer) that fires on HTTPCode_ELB_5XX_Count excluding 500, 502, 503, and 504 (e.g. 501, 505, 561).
