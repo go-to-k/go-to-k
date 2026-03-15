@@ -43,18 +43,18 @@ CDK Assembly Garbage Collector - Clean up unused assets in your `cdk.out` direct
 
 ### [image-scanner-with-trivy](https://github.com/go-to-k/image-scanner-with-trivy)
 
-An AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Trivy.
+AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Trivy.
 
 To my surprise, this library was featured on the ecosystem page of [Trivy's official documentation](https://trivy.dev/docs/latest/ecosystem/ide/#image-scanner-with-trivy-community)!
 
 ### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
 
-An AWS CDK Construct that blocks deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities, and optionally verifies container image signatures.
+AWS CDK Construct that blocks deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities, and optionally verifies container image signatures.
 
 ### [image-scanner-with-dockle](https://github.com/go-to-k/image-scanner-with-dockle)
 
-An AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Dockle.
+AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Dockle.
 
 ### [elb-other-5xx-alarm](https://github.com/go-to-k/elb-other-5xx-alarm)
 
-An AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as Application Load Balancer) that fires on HTTPCode_ELB_5XX_Count excluding 500, 502, 503, and 504 (e.g. 501, 505, 561).
+AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as Application Load Balancer) that fires on HTTPCode_ELB_5XX_Count excluding 500, 502, 503, and 504 (e.g. 501, 505, 561).
