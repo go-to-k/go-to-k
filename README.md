@@ -58,3 +58,13 @@ AWS CDK Construct library to allow you to scan a container image during CDK depl
 ### [elb-other-5xx-alarm](https://github.com/go-to-k/elb-other-5xx-alarm)
 
 AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as Application Load Balancer) that fires on HTTPCode_ELB_5XX_Count excluding 500, 502, 503, and 504 (e.g. 501, 505, 561).
+
+## CDK Explorations
+
+### [cdkd](https://github.com/go-to-k/cdkd)
+
+CDK Direct - An experimental CDK alternative that deploys directly via AWS SDK instead of CloudFormation. It implements its own state management, dependency graph, diff detection, and rollback from scratch.
+
+### [cdk-gof-design-patterns](https://github.com/go-to-k/cdk-gof-design-patterns)
+
+A sample repository for AWS CDK x GoF design patterns including concrete CDK code and class diagrams.
