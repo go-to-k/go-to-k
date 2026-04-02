@@ -29,7 +29,7 @@ A CLI tool to CLear S3 Buckets. It empties (so deletes all objects and versions/
 
 ### [delstack](https://github.com/go-to-k/delstack)
 
-A CLI tool for deleting AWS CloudFormation stacks, from routine deletions to force deleting stacks with undeletable resources.
+A CLI tool for deleting AWS CloudFormation and AWS CDK stacks, from routine deletions to force deleting stacks with undeletable resources.
 
 ### [lamver](https://github.com/go-to-k/lamver)
 
