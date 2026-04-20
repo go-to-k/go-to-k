@@ -9,16 +9,6 @@
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
 </p>
 
-# Blog Posts (En/Ja) and Slides
-
-- [English](https://dev.to/k_goto)
-- [Japanese](https://go-to-k.hatenablog.com/)
-- builders.flash (Official web magazine by AWS Japan)
-  - [AWS CDK におけるバリデーションの使い分け方を学ぶ](https://aws.amazon.com/jp/builders-flash/202406/cdk-validation/)
-  - [AWS CDK における単体テストの使い所を学ぶ](https://aws.amazon.com/jp/builders-flash/202411/learn-cdk-unit-test/)
-  - [AWS CDK におけるプロパティ一括適用 TIPS 集](https://aws.amazon.com/jp/builders-flash/202601/cdk-property-bulk-apply/)
-- [Slides](https://speakerdeck.com/gotok365)
-
 # Self-developed OSS
 
 ## AWS Dev Tools
@@ -68,3 +58,13 @@ AWS CDK Construct library to allow you to scan a container image during CDK depl
 ### [elb-other-5xx-alarm](https://github.com/go-to-k/elb-other-5xx-alarm)
 
 AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as Application Load Balancer) that fires on HTTPCode_ELB_5XX_Count excluding 500, 502, 503, and 504 (e.g. 501, 505, 561).
+
+# Blog Posts (En/Ja) and Slides
+
+- [English](https://dev.to/k_goto)
+- [Japanese](https://go-to-k.hatenablog.com/)
+- builders.flash (Official web magazine by AWS Japan)
+  - [AWS CDK におけるバリデーションの使い分け方を学ぶ](https://aws.amazon.com/jp/builders-flash/202406/cdk-validation/)
+  - [AWS CDK における単体テストの使い所を学ぶ](https://aws.amazon.com/jp/builders-flash/202411/learn-cdk-unit-test/)
+  - [AWS CDK におけるプロパティ一括適用 TIPS 集](https://aws.amazon.com/jp/builders-flash/202601/cdk-property-bulk-apply/)
+- [Slides](https://speakerdeck.com/gotok365)
