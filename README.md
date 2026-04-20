@@ -41,15 +41,15 @@ CDK Assembly Garbage Collector - Clean up unused assets in your `cdk.out` direct
 
 ## AWS CDK Construct Libraries
 
+### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
+
+AWS CDK Construct that blocks deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities, and optionally verifies container image signatures.
+
 ### [image-scanner-with-trivy](https://github.com/go-to-k/image-scanner-with-trivy)
 
 AWS CDK Construct library to allow you to scan a container image during CDK deployment layer with Trivy.
 
 To my surprise, this library was featured on the ecosystem page of [Trivy's official documentation](https://trivy.dev/docs/latest/ecosystem/ide/#image-scanner-with-trivy-community)!
-
-### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
-
-AWS CDK Construct that blocks deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities, and optionally verifies container image signatures.
 
 ### [image-scanner-with-dockle](https://github.com/go-to-k/image-scanner-with-dockle)
 
