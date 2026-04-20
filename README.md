@@ -63,7 +63,7 @@ AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as 
 
 ### [cdkd](https://github.com/go-to-k/cdkd)
 
-CDK Direct - An experimental CDK alternative that deploys directly via AWS SDK instead of CloudFormation. It implements its own state management, dependency graph, diff detection, and rollback from scratch.
+CDK Direct - A fully self-contained CDK deployment tool that provisions resources directly via AWS SDK instead of CloudFormation. Implements its own synthesis, asset publishing, state management, and dependency graph — with zero CDK CLI dependencies.
 
 ### [cdk-gof-design-patterns](https://github.com/go-to-k/cdk-gof-design-patterns)
 
