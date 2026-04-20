@@ -63,7 +63,7 @@ AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as 
 
 ### [cdkd](https://github.com/go-to-k/cdkd)
 
-CDK Direct - A from-scratch CDK CLI that provisions via AWS SDK instead of CloudFormation. 100% CDK compatible.
+CDK Direct - A from-scratch CDK CLI that provisions via AWS SDK instead of CloudFormation.
 
 ### [cdk-gof-design-patterns](https://github.com/go-to-k/cdk-gof-design-patterns)
 
