@@ -11,7 +11,7 @@
 
 # Self-developed OSS
 
-## AWS Dev Tools
+## Dev Tools
 
 ### [cls3](https://github.com/go-to-k/cls3)
 
@@ -28,6 +28,10 @@ A CLI tool to search AWS Lambda runtime and versions across regions.
 ### [cdk-agc](https://github.com/go-to-k/cdk-agc)
 
 CDK Assembly Garbage Collector - Clean up unused assets in your `cdk.out` directory, remove locally built Docker images, and delete temporary CDK directories.
+
+### [markgate](https://github.com/go-to-k/markgate)
+
+State-cached commit gate for hook managers — skip checks when nothing changed since they last passed.
 
 ## CDK Explorations
 
