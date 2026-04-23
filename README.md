@@ -31,7 +31,7 @@ CDK Assembly Garbage Collector - Clean up unused assets in your `cdk.out` direct
 
 ### [markgate](https://github.com/go-to-k/markgate)
 
-State-cached commit gate for hook managers — skip checks when nothing changed since they last passed.
+A verification-state cache for hook managers — skip checks that already passed, catch the ones that never ran.
 
 ## CDK Explorations
 
