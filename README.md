@@ -13,6 +13,10 @@
 
 ## Dev Tools
 
+### [cdkd](https://github.com/go-to-k/cdkd)
+
+A from-scratch CDK CLI with its own deployment engine, provisioning via AWS SDK instead of CloudFormation.
+
 ### [cls3](https://github.com/go-to-k/cls3)
 
 A CLI tool to CLear S3 Buckets. It empties (so deletes all objects and versions/delete-markers in) S3 Buckets or deletes the buckets themselves.
@@ -33,16 +37,6 @@ CDK Assembly Garbage Collector - Clean up unused assets in your `cdk.out` direct
 
 A verification-state cache for hook managers — skip checks that already passed, catch the ones that never ran.
 
-## CDK Explorations
-
-### [cdkd](https://github.com/go-to-k/cdkd)
-
-A from-scratch CDK CLI with its own deployment engine, provisioning via AWS SDK instead of CloudFormation.
-
-### [cdk-gof-design-patterns](https://github.com/go-to-k/cdk-gof-design-patterns)
-
-A sample repository for AWS CDK x GoF design patterns including concrete CDK code and class diagrams.
-
 ## AWS CDK Construct Libraries
 
 ### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
@@ -62,6 +56,12 @@ AWS CDK Construct library to allow you to scan a container image during CDK depl
 ### [elb-other-5xx-alarm](https://github.com/go-to-k/elb-other-5xx-alarm)
 
 AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as Application Load Balancer) that fires on HTTPCode_ELB_5XX_Count excluding 500, 502, 503, and 504 (e.g. 501, 505, 561).
+
+## CDK Explorations
+
+### [cdk-gof-design-patterns](https://github.com/go-to-k/cdk-gof-design-patterns)
+
+A sample repository for AWS CDK x GoF design patterns including concrete CDK code and class diagrams.
 
 # Blog Posts (En/Ja) and Slides
 
