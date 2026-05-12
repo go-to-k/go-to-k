@@ -15,7 +15,7 @@
 
 ### [cdkd](https://github.com/go-to-k/cdkd)
 
-A from-scratch CDK CLI with its own deployment engine, provisioning via AWS SDK instead of CloudFormation.
+Drop-in CDK CLI for existing CDK apps — faster deploys via AWS SDK instead of CloudFormation, with local emulation for Lambda, API Gateway, and ECS.
 
 ### [cls3](https://github.com/go-to-k/cls3)
 
