@@ -63,6 +63,10 @@ AWS CDK construct library for a CloudWatch Alarm for Elastic Load Balancing (as 
 
 A sample repository for AWS CDK x GoF design patterns including concrete CDK code and class diagrams.
 
+### [cdk-skills](https://github.com/go-to-k/cdk-skills)
+
+AWS CDK 開発を支援する AI コーディングエージェント用 Skills 集
+
 # Blog Posts (En/Ja) and Slides
 
 - [English](https://dev.to/k_goto)
