@@ -19,7 +19,7 @@ Drop-in CDK CLI for existing CDK apps — faster deploys via AWS SDK instead of 
 
 ### [cdk-local](https://github.com/go-to-k/cdk-local)
 
-Run the app you built with CDK locally, no deploy needed. Or connect it to your deployed stack’s real AWS resources and data: the app stays local, the data is real — no `.env`, no data to copy locally.
+Run your CDK-built app locally, no deploy needed. Or connect it to your deployed stack’s real AWS resources and data: the app stays local, the data is real — no `.env`, no data to copy locally.
 
 ### [cls3](https://github.com/go-to-k/cls3)
 
