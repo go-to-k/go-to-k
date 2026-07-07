@@ -21,6 +21,10 @@ Drop-in CDK CLI for existing CDK apps — faster deploys via AWS SDK instead of 
 
 Run your CDK-built app locally, no deploy needed — standalone, or kept local while it reaches the real AWS resources and data it depends on, with no `.env` or local copies to maintain.
 
+### [cdk-real-drift](https://github.com/go-to-k/cdk-real-drift)
+
+Drift detection for AWS CDK that sees what your template can't, including the properties you never declared. Detect it, record it, or revert it.
+
 ### [cls3](https://github.com/go-to-k/cls3)
 
 A CLI tool to CLear S3 Buckets. It empties (so deletes all objects and versions/delete-markers in) S3 Buckets or deletes the buckets themselves.
