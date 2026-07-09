@@ -47,6 +47,10 @@ A verification-state cache for hook managers — skip checks that already passed
 
 ## AWS CDK Construct Libraries
 
+### [cdk-multi-region-stack](https://github.com/go-to-k/cdk-multi-region-stack)
+
+A CDK Stack that lets you place resources in other regions while keeping them in one logical stack.
+
 ### [ecr-scan-verifier](https://github.com/go-to-k/ecr-scan-verifier)
 
 AWS CDK Construct that blocks deployments to ECS, Lambda, and other services when ECR Image Scanning detects vulnerabilities, and optionally verifies container image signatures.
