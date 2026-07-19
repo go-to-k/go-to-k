@@ -15,7 +15,7 @@
 
 ### [cdkd](https://github.com/go-to-k/cdkd)
 
-Drop-in CDK CLI for existing CDK apps — faster deploys via AWS SDK instead of CloudFormation, with local emulation for Lambda, API Gateway, and ECS.
+Drop-in CDK CLI for existing CDK apps: up to 15x faster deploys via AWS SDK instead of CloudFormation.
 
 ### [cdk-local](https://github.com/go-to-k/cdk-local)
 
