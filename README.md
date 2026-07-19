@@ -1,6 +1,6 @@
 # Kenta Goto
 
-- [AWS DevTools Hero](https://aws.amazon.com/jp/developer/community/heroes/kenta-goto/)
+- [AWS DevTools Hero](https://builder.aws.com/community/heroes)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md) & [Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews#trusted-cdk-reviewers)
 - Maintainer of the [Open Constructs Library](https://github.com/open-constructs/aws-cdk-library), a Community-Driven CDK Construct Library
 - OSS Creator of AWS tools & CDK Construct libraries
