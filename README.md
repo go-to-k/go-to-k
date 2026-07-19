@@ -15,7 +15,7 @@
 
 ### [cdkd](https://github.com/go-to-k/cdkd)
 
-Drop-in CDK CLI for existing CDK apps: up to 15x faster deploys via direct AWS SDK calls instead of CloudFormation.
+Drop-in CDK CLI for existing CDK apps — up to 15x faster deploys via direct AWS SDK calls instead of CloudFormation.
 
 ### [cdk-local](https://github.com/go-to-k/cdk-local)
 
