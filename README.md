@@ -2,8 +2,7 @@
 
 - [AWS DevTools Hero](https://builder.aws.com/community/heroes)
 - [AWS CDK Top Contributor](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md) & [Community Reviewer](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews#trusted-cdk-reviewers)
-- Maintainer of the [Open Constructs Library](https://github.com/open-constructs/aws-cdk-library), a Community-Driven CDK Construct Library
-- OSS Creator of AWS tools & CDK Construct libraries
+- Creator of [cdkd.dev](https://cdkd.dev)
 
 <p align="left"> 
   <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=go-to-k" />
@@ -16,6 +15,8 @@
 ### [cdkd](https://github.com/go-to-k/cdkd)
 
 Drop-in CDK CLI for existing CDK apps — up to 15x faster deploys via direct AWS SDK calls instead of CloudFormation.
+
+📚 Documentation: [cdkd.dev](https://cdkd.dev)
 
 ### [cdk-local](https://github.com/go-to-k/cdk-local)
 
